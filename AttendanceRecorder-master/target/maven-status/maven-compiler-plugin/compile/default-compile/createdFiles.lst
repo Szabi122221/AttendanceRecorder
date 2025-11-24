@@ -1,0 +1,5 @@
+com\university\attendance\BarcodeScanner.class
+com\university\attendance\DatabaseManager$StudentInfo.class
+com\university\attendance\StudentManager.class
+com\university\attendance\AttendanceApp.class
+com\university\attendance\DatabaseManager.class
